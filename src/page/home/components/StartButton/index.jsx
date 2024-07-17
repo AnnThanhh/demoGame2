@@ -30,7 +30,7 @@ function StartButton({ onClick = () => {} }) {
           color: '#FFFFFF',
         }}
       >
-        Chiến !!!
+        Play
       </p>
       <img src={fireIcon} alt='' />
     </button>
